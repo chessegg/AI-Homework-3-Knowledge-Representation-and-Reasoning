@@ -1,0 +1,6 @@
+P(S)
+G(C)
+L(C,O)
+P(O) G(O)
+L(O,S)
+G(X) P(Y) L(X,Y)
